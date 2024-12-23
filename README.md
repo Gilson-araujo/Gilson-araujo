@@ -47,7 +47,7 @@
   <a href="mailto:gilson.a.filho@gmail.com?subject=&body=" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://wa.me/5534996359903" target="_blank">
+  <a href="https://wa.me/5516997605603" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
   <a href="https://www.linkedin.com/in/gilson-ara%C3%BAjo-76ba9b23b/" target="_blank">
